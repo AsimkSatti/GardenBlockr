@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\Asim Satti\Documents\FinalGame\SDLProject\main.cpp(192,17): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asim Satti\Documents\FinalGame\SDLProject\main.cpp(557,22): warning C4244:  '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asim Satti\Documents\FinalGame\SDLProject\main.cpp(594,22): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asim Satti\Documents\FinalGame\SDLProject\main.cpp(654,55): warning C4244:  '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Asim Satti\Documents\FinalGame\SDLProject\main.cpp(654,55): warning C4244:         with
+C:\Users\Asim Satti\Documents\FinalGame\SDLProject\main.cpp(654,55): warning C4244:         [
+C:\Users\Asim Satti\Documents\FinalGame\SDLProject\main.cpp(654,55): warning C4244:             T=float
+C:\Users\Asim Satti\Documents\FinalGame\SDLProject\main.cpp(654,55): warning C4244:         ]
+C:\Users\Asim Satti\Documents\FinalGame\SDLProject\main.cpp(660,54): warning C4244:  '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Asim Satti\Documents\FinalGame\SDLProject\main.cpp(660,54): warning C4244:         with
+C:\Users\Asim Satti\Documents\FinalGame\SDLProject\main.cpp(660,54): warning C4244:         [
+C:\Users\Asim Satti\Documents\FinalGame\SDLProject\main.cpp(660,54): warning C4244:             T=float
+C:\Users\Asim Satti\Documents\FinalGame\SDLProject\main.cpp(660,54): warning C4244:         ]
+  SDLProject.vcxproj -> C:\Users\Asim Satti\Documents\FinalGame\SDLProject\Debug\SDLProject.exe
